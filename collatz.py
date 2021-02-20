@@ -32,5 +32,6 @@ try:
     else:
         print("Please, Enter a positive integer to begin the Collatz sequence")
 
+#asks user to only input integers and ends programme if not
 except:
-    print("please, Enter an integer")
+    print("Please, enter an integer")
