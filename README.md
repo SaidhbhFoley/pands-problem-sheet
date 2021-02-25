@@ -22,5 +22,6 @@ weekday.py
 ---
 Solution to week05's lab.
 
-<p>This programme outputs whether or not today is a weekday. If it is a weekday the programme outputs "<em>Yes,unfortunately today is a weekday.<em>" 
+<p>This programme outputs whether or not today is a weekday. If it is a weekday the programme outputs "<em>Yes,unfortunately today is a weekday.<em>" <p>
+<p>
 If it is the weekend the programme outputs "<em>It is the weekend, yay!<em>"<p>
