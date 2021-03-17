@@ -29,3 +29,11 @@ weekday.py
 sqrroot.py
 ---
 <strong>Solution to week06's lab.</strong>
+
+<p> This programme calculates the square root of a number<p>
+
+es.py
+---
+<strong>Solution to week07's lab.</strong>
+
+<p>Program that reads in a text file and outputs the number of e's it contains.<p>
