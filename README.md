@@ -37,3 +37,13 @@ es.py
 <strong>Solution to week07's lab.</strong>
 
 <p>Program that reads in a text file and outputs the number of e's it contains.<p>
+
+dayofweek.py
+---
+<strong>Addressing comments for weekday.py code.</strong>
+<p> Making the code more user friendly so that if the message needs changing it only must be changed once for the weekdays and once for the weekend. <p>
+
+mobydick.py
+---
+<strong>Addressing comments for es.py code.</strong>
+<p> Code pulls in text file instead of asks user to input the desired text file and counts how many times the letter e appears in Moby Dick <p>
